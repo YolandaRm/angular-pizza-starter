@@ -1,4 +1,4 @@
 export const environment = {
   production: true,
-  serverURL: 'http://localhost:3005' // TODO: usar la de heroku
+  serverURL: 'https://angular-pizza-starter.herokuapp.com'// TODO: usar la de heroku
 };
